@@ -1,5 +1,7 @@
 # Hi, I'm Mayank Yerragondu 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=25&lines=Hi!+It's+Mayank!;I'm+an+ML/AI+Researcher;I+love+coding!)](https://git.io/typing-svg)
+
 **High school senior** blending **IoT development** with **AI research** to build intelligent, secure, and adaptive systems. I’ve shipped integrations for multi‑protocol smart‑home devices (Zigbee/Z‑Wave/Matter) and I’m currently researching **personalized anomaly detection** for smart‑home security using real‑world sensor data.
 
 <br>
