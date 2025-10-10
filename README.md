@@ -15,12 +15,41 @@
 ---
 
 ## 🛠️ Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-**Languages:** Python · Java · C++ · JavaScript/Node.js
-**IoT/Embedded:** Zigbee · Z‑Wave · Matter · NXP i.MX93
-**Cloud & Data:** AWS (EC2, S3, RDS, ECS, SageMaker, Glue, CloudWatch) · Pandas · NumPy · Scikit‑learn
-**Security & Auth:** JWT · API hardening · Test automation
-**Tools:** Git/GitHub · Linux · Documentation & integration guides
+### IoT / Embedded
+![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white)
+![Z-Wave](https://img.shields.io/badge/Z%E2%80%91Wave-0D47A1?style=flat-square)
+![Matter](https://img.shields.io/badge/Matter-000000?style=flat-square)
+![NXP i.MX93](https://img.shields.io/badge/NXP%20i.MX93-FFC20E?style=flat-square&logo=nxp&logoColor=000)
+
+### Cloud & Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-1F72AF?style=flat-square&logo=amazonsagemaker&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-8C4FFF?style=flat-square)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Security & Auth
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Docs](https://img.shields.io/badge/Docs-0A66C2?style=flat-square)
+
 
 > I’m comfortable moving between firmware/API debugging and ML pipelines, with a strong focus on reliability, reproducibility, and clean developer docs.
 
